@@ -273,4 +273,4 @@ Documents can be ingested in two ways:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+No license yet
