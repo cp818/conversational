@@ -129,7 +129,7 @@ The system now includes several optimizations for handling files of any size eff
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/rag-microservice.git
+   git clone https://github.com/cp818/conversational/rag-microservice.git
    cd rag-microservice
    ```
 
